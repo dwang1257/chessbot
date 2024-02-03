@@ -10,3 +10,4 @@ To tackle the early game we will program the chess bot to cycle through some sta
 The mid game will be the most challengings as we 
 We consider it to be the end game when there are less than 8 peices left on the board.
 For this we will then use the tablebases of all possible moves left.
+Team Members: Rodrigo de Salvidea, Dylan Wang, Alex Andoni
